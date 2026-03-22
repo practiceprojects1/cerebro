@@ -1,6 +1,6 @@
 # 💬 Chatbot template
 
-A simple Streamlit app that shows how to build a chatbot using OpenAI's GPT-3.5.
+Template for Streamlit based UI for AI chatbot. This is a demo use case intended for an API gateway, lambda function, and AWS Bedrock models to function as the supporting serverless infrastructure. 
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://chatbot-template.streamlit.app/)
 
